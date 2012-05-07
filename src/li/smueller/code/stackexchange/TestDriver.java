@@ -1,3 +1,4 @@
+package li.smueller.code.stackexchange;
 
 public final class TestDriver {
 

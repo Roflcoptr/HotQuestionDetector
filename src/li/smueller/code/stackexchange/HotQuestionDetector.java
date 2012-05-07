@@ -1,3 +1,5 @@
+package li.smueller.code.stackexchange;
+
 import it.sauronsoftware.feed4j.FeedIOException;
 import it.sauronsoftware.feed4j.FeedParser;
 import it.sauronsoftware.feed4j.FeedXMLParseException;
